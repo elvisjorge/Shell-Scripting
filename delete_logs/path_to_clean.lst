@@ -1,0 +1,4 @@
+#Path_to_clean|day_to_retain|type_of_file_to_delete
+/example1/user1/logs/|+60|f
+/example2/user1/integrations/|+60|d
+/var/log/|+15|f
